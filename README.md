@@ -2,6 +2,9 @@
 
 This repository contains a Python implementation of the FALCON (Fast Fourier Lattice-based Compact Signatures over NTRU) post-quantum signature algorithm. FALCON is a lattice-based signature scheme that offers strong security guarantees against both classical and quantum attacks. NTRU is an open-source public-key cryptosystem that uses lattice-based cryptography to encrypt and decrypt data.
 
+## Results
+![](https://github.com/ericyoc/post_quantum_falcon_crypto_sig_poc/blob/main/results_table_falcon.jpg)
+
 ## Why Post-Quantum Cryptography Matters
 
 In the era of rapidly advancing quantum computing technology, traditional cryptographic algorithms based on integer factorization and discrete logarithms are becoming increasingly vulnerable. Quantum computers have the potential to solve these problems efficiently, rendering current security measures obsolete. This poses a significant risk to the confidentiality and integrity of sensitive data.
