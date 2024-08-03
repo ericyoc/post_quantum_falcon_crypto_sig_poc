@@ -65,8 +65,6 @@ In a world where quantum computers pose a significant threat to traditional cryp
 
 By implementing the FALCON algorithm, as demonstrated in this Python code, developers can incorporate post-quantum security measures into their applications, ensuring the long-term protection of digital assets. It is essential to adopt post-quantum cryptography proactively to mitigate the risks associated with the advent of quantum computing and safeguard sensitive information from potential breaches.
 
-We encourage researchers, developers, and security professionals to explore and contribute to the field of post-quantum cryptography, driving the adoption of algorithms like FALCON to build a more secure digital future.
-
 ## References
 
 - FALCON: Fast Fourier Lattice-based Compact Signatures over NTRU (https://falcon-sign.info/)
