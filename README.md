@@ -45,3 +45,7 @@ We encourage researchers, developers, and security professionals to explore and 
 - Post-Quantum Cryptography (https://csrc.nist.gov/projects/post-quantum-cryptography)
 
 Feel free to contribute to this repository, provide feedback, and join the discussion on post-quantum cryptography and the FALCON algorithm.
+
+## Disclaimer
+The Python code is for academic and research purposes only.
+
